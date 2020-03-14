@@ -3,7 +3,7 @@
     "publishingInformation": {
       "locales": {
         "ja-JP": {
-          "name": "video-skill-test",
+          "name": "alexa-cdk",
           "summary": "Sample Short Description",
           "description": "Sample Full Description",
           "examplePhrases": [
@@ -22,7 +22,6 @@
     "apis": {
       "custom": {
         "endpoint": {
-          "sourceDir": "lambda/custom",
           "uri": "ask-custom-video-skill-test-default"
         }
       }
